@@ -4,4 +4,9 @@ public class Greeting
     {
         //Print the greeting.
     }
+    
+    public void Display()
+    {
+        //Print the greeting.
+    }
 }
