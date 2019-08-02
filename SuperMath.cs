@@ -9,4 +9,9 @@ public class SuperMath
     {
         return i*j;
     }
+    
+    public int Devide(int i, int j)
+    {
+        return i/j;
+    }
 }
